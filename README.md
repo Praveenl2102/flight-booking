@@ -1,10 +1,9 @@
 ✈️ Flight Booking Analysis Dashboard
+
 📌 Project Overview
 
 This project presents a Power BI dashboard designed to analyze flight booking data. It provides insights into passenger behavior, booking trends, airline performance, and revenue generation to support better decision-making in the aviation industry.
 
-📁 File Included
-flight_booking.pbix – Power BI report containing data model, dashboards, and visualizations
 🎯 Objectives
 Analyze flight booking trends over time
 Identify peak travel periods and seasonal demand
@@ -23,6 +22,7 @@ Track revenue and ticket pricing trends
 Power BI – Data visualization
 Power Query – Data cleaning & transformation
 DAX (Data Analysis Expressions) – Measures and KPIs
+
 📂 Data Processing Steps
 Imported raw flight booking data into Power BI
 Cleaned and transformed data using Power Query
