@@ -1,0 +1,501 @@
+Airline,Booking_ID,Depture_City,Distance_km,Fight_Duration_hr,Passenger_Age,Payment_Method,Ticket_Price,Travel_Class
+Emirates,BK100000,Kochi,4599,5.95,19,NetBanking,805.97,Economy
+SpiceJet,BK100001,New Delhi,2273,3.05,19,UPI,642.27,Economy
+Qatar Airways,BK100002,New Delhi,2747,2.97,65,UPI,729.08,Economy
+GoAir,BK100003,Chennai,774,0.68,21,Card,203.7,Economy
+Emirates,BK100004,Kochi,3845,4.03,22,Wallet,373.47,Economy
+Lufthansa,BK100005,Kolkata,5187,7.18,1,Card,2772.72,Business
+Vistara,BK100006,Ahmedabad,595,1.35,64,NetBanking,134.22,Economy
+Emirates,BK100007,Bengaluru,2594,3.53,57,Card,1413.77,Business
+Qatar Airways,BK100008,New Delhi,5449,5.85,46,Card,804.27,Economy
+GoAir,BK100009,Chennai,710,0.5,54,Card,572.6,Business
+SpiceJet,BK100010,Lucknow,1427,2.47,15,Card,285.86,Premium Economy
+Qatar Airways,BK100011,Kochi,4914,6.12,35,NetBanking,1768.91,Premium Economy
+Qatar Airways,BK100012,Bengaluru,3964,4.83,28,UPI,1074.95,Premium Economy
+Vistara,BK100013,Lucknow,795,1.62,10,Card,242.17,Premium Economy
+AirAsia X,BK100014,Kochi,3530,4.46,36,Wallet,583.99,Economy
+GoAir,BK100015,Goa,890,1.87,74,Card,105.36,Economy
+IndiGo,BK100016,Lucknow,1417,1.14,5,UPI,234.57,Economy
+Qatar Airways,BK100017,Chennai,3044,3.63,24,Wallet,1268.49,Business
+AirAsia X,BK100018,Bengaluru,4130,4.95,18,UPI,845.76,Economy
+IndiGo,BK100019,Pune,228,0.9,20,Card,76.77,Premium Economy
+GoAir,BK100020,Hyderabad,303,0.5,72,Wallet,39.16,Economy
+Air India,BK100021,Hyderabad,881,0.5,35,UPI,160.39,Economy
+Lufthansa,BK100022,Bengaluru,1647,2.77,35,Card,314.0,Economy
+AirAsia X,BK100023,Lucknow,6472,7.15,55,Card,632.76,Economy
+British Airways,BK100024,Kochi,2568,2.56,15,NetBanking,349.3,Economy
+Air India,BK100025,Chennai,875,0.83,37,UPI,243.6,Economy
+Lufthansa,BK100026,Ahmedabad,5401,6.82,33,UPI,983.66,Economy
+Vistara,BK100027,Hyderabad,382,0.5,44,Wallet,109.92,Economy
+Emirates,BK100028,Chennai,1236,1.44,89,NetBanking,336.38,Economy
+SpiceJet,BK100029,Hyderabad,633,0.89,55,Card,102.73,Economy
+British Airways,BK100030,Goa,2950,4.02,31,Card,1249.77,Premium Economy
+Vistara,BK100031,Kochi,100,0.5,59,Card,15.47,Economy
+GoAir,BK100032,Goa,1070,0.5,16,NetBanking,218.82,Economy
+Vistara,BK100033,Hyderabad,1024,0.65,4,Card,225.58,Economy
+Emirates,BK100034,Pune,5370,6.32,18,UPI,1076.99,Economy
+GoAir,BK100035,Pune,227,0.89,27,NetBanking,59.5,Economy
+British Airways,BK100036,Goa,2081,2.2,38,Wallet,567.69,Economy
+Emirates,BK100037,Pune,3511,4.06,45,Card,398.03,Economy
+IndiGo,BK100038,Hyderabad,846,1.28,72,NetBanking,135.42,Economy
+SpiceJet,BK100039,Bengaluru,1452,0.8,38,Card,339.86,Economy
+British Airways,BK100040,Goa,5692,6.43,37,NetBanking,2664.61,Business
+IndiGo,BK100041,Ahmedabad,1628,3.17,6,Card,665.5,Premium Economy
+Lufthansa,BK100042,Ahmedabad,4331,5.68,4,Card,716.09,Economy
+British Airways,BK100043,Mumbai,4959,6.21,41,NetBanking,774.65,Economy
+Lufthansa,BK100044,Lucknow,3231,3.37,33,Card,323.86,Economy
+GoAir,BK100045,Kochi,1001,0.94,60,Card,215.33,Economy
+IndiGo,BK100046,Pune,185,0.5,15,NetBanking,204.06,First
+SpiceJet,BK100047,Pune,937,2.02,3,NetBanking,215.14,Economy
+Emirates,BK100048,Lucknow,4106,5.21,34,UPI,703.56,Economy
+Qatar Airways,BK100049,New Delhi,6066,8.02,20,UPI,779.84,Economy
+Vistara,BK100050,Kolkata,762,0.5,5,UPI,287.18,Premium Economy
+Air India,BK100051,Goa,954,1.36,52,Card,243.87,Economy
+SpiceJet,BK100052,Jaipur,1042,1.78,12,Card,241.02,Economy
+IndiGo,BK100053,Pune,627,0.5,45,Card,138.63,Economy
+Qatar Airways,BK100054,Kochi,3037,3.26,23,Wallet,397.8,Economy
+SpiceJet,BK100055,Mumbai,1679,0.82,16,UPI,339.62,Economy
+IndiGo,BK100056,Ahmedabad,311,0.5,29,Card,75.44,Economy
+AirAsia X,BK100057,Pune,2406,2.64,57,Card,366.29,Economy
+AirAsia X,BK100058,Mumbai,4816,6.53,30,Wallet,891.36,Economy
+Lufthansa,BK100059,Hyderabad,5389,6.2,54,Card,802.62,Economy
+SpiceJet,BK100060,Hyderabad,629,1.27,13,UPI,119.7,Economy
+AirAsia X,BK100061,Kolkata,3476,4.0,55,UPI,486.01,Economy
+IndiGo,BK100062,Bengaluru,1069,1.1,20,UPI,276.74,Economy
+Lufthansa,BK100063,Jaipur,3150,4.26,49,Card,599.82,Premium Economy
+IndiGo,BK100064,New Delhi,430,0.5,42,Wallet,116.8,Economy
+Lufthansa,BK100065,Kolkata,5055,5.65,76,Wallet,535.9,Economy
+SpiceJet,BK100066,Chennai,1264,1.25,30,UPI,235.05,Economy
+Qatar Airways,BK100067,New Delhi,5573,7.36,7,UPI,1137.17,Economy
+Emirates,BK100068,Goa,2496,3.35,2,Wallet,826.59,Premium Economy
+British Airways,BK100069,Kochi,3397,3.78,59,NetBanking,478.06,Economy
+Qatar Airways,BK100070,Chennai,4337,5.75,39,Card,3648.02,Business
+GoAir,BK100071,Chennai,344,0.64,56,UPI,63.72,Economy
+IndiGo,BK100072,Kolkata,1285,1.72,20,UPI,249.84,Economy
+GoAir,BK100073,Lucknow,1634,2.04,27,Card,344.69,Premium Economy
+Qatar Airways,BK100074,Bengaluru,3299,3.46,4,NetBanking,3007.67,Business
+Lufthansa,BK100075,Lucknow,4046,4.69,82,Wallet,1341.89,Premium Economy
+British Airways,BK100076,Kolkata,5746,6.91,48,Wallet,1523.7,Premium Economy
+British Airways,BK100077,Goa,6159,7.81,77,Card,1060.2,Economy
+Air India,BK100078,Ahmedabad,1347,1.56,22,Card,340.79,Premium Economy
+British Airways,BK100079,Pune,4712,5.46,45,Cash,665.04,Economy
+Emirates,BK100080,Pune,2975,3.69,49,NetBanking,2991.5,Business
+British Airways,BK100081,Bengaluru,4431,5.08,25,Card,488.73,Economy
+Qatar Airways,BK100082,Goa,4668,5.53,60,Wallet,1424.51,Premium Economy
+Air India,BK100083,Bengaluru,773,0.6,79,Wallet,158.54,Economy
+Qatar Airways,BK100084,Mumbai,3286,4.38,67,UPI,675.07,Economy
+Qatar Airways,BK100085,Lucknow,2462,3.35,53,UPI,354.86,Economy
+Vistara,BK100086,Pune,100,0.5,23,Card,41.99,Premium Economy
+Air India,BK100087,Chennai,100,0.5,23,Card,15.21,Economy
+Qatar Airways,BK100088,Lucknow,4695,6.7,82,Card,560.11,Economy
+Vistara,BK100089,Jaipur,988,1.41,2,NetBanking,194.29,Economy
+Vistara,BK100090,Kochi,609,1.24,52,Card,175.15,Economy
+Air India,BK100091,Goa,701,0.5,51,Card,638.12,Business
+GoAir,BK100092,New Delhi,1026,1.38,45,Card,129.85,Economy
+Lufthansa,BK100093,Bengaluru,3802,5.22,88,UPI,5160.47,First
+Emirates,BK100094,Lucknow,2391,3.11,25,Wallet,631.27,Economy
+Lufthansa,BK100095,Kochi,5095,6.84,27,Card,1041.7,Economy
+British Airways,BK100096,Lucknow,4364,5.59,8,Card,1628.75,Premium Economy
+Emirates,BK100097,New Delhi,4319,5.86,34,NetBanking,560.63,Economy
+British Airways,BK100098,Kochi,5005,6.53,22,Card,524.37,Economy
+Qatar Airways,BK100099,Jaipur,3023,3.17,27,Card,514.09,Economy
+IndiGo,BK100100,New Delhi,1628,2.04,59,Card,735.51,Premium Economy
+Air India,BK100101,Kolkata,815,0.5,77,Card,169.28,Economy
+Emirates,BK100102,Hyderabad,5066,6.94,17,Card,7127.01,First
+Emirates,BK100103,Kolkata,4881,5.62,29,Card,7092.74,First
+Qatar Airways,BK100104,Pune,2753,3.03,76,Card,742.86,Economy
+GoAir,BK100105,Lucknow,1201,1.08,7,Wallet,161.35,Economy
+Vistara,BK100106,Hyderabad,1095,1.82,10,Card,238.44,Economy
+Qatar Airways,BK100107,Kolkata,4036,5.34,15,UPI,447.28,Economy
+AirAsia X,BK100108,Hyderabad,3886,5.74,44,UPI,733.09,Economy
+Vistara,BK100109,Ahmedabad,848,0.5,14,Card,126.0,Economy
+Air India,BK100110,Lucknow,1387,1.25,83,UPI,179.81,Economy
+Vistara,BK100111,Hyderabad,1246,1.54,34,Card,1289.45,Business
+GoAir,BK100112,Chennai,918,1.69,37,Cash,270.5,Premium Economy
+Vistara,BK100113,Bengaluru,100,0.5,21,Card,35.47,Premium Economy
+Air India,BK100114,Bengaluru,1196,1.55,35,Card,279.56,Economy
+GoAir,BK100115,Chennai,1334,1.54,48,Card,282.35,Economy
+Lufthansa,BK100116,Kochi,6760,9.21,54,Cash,1523.24,Economy
+Emirates,BK100117,Mumbai,5290,6.71,54,UPI,6239.48,First
+Emirates,BK100118,Kochi,1720,1.5,42,UPI,429.99,Economy
+British Airways,BK100119,New Delhi,4094,4.62,71,Card,1867.19,Business
+Lufthansa,BK100120,New Delhi,6173,7.88,58,NetBanking,1160.9,Economy
+Lufthansa,BK100121,Hyderabad,4748,6.92,54,Card,754.53,Economy
+Vistara,BK100122,Kolkata,1097,1.53,6,Wallet,364.49,Premium Economy
+Emirates,BK100123,Kolkata,5080,6.78,1,Card,747.23,Economy
+Air India,BK100124,Bengaluru,526,0.5,18,Card,286.49,Business
+SpiceJet,BK100125,Goa,1186,1.79,48,Card,773.39,Business
+SpiceJet,BK100126,Kochi,749,0.5,31,Card,136.06,Economy
+GoAir,BK100127,Ahmedabad,888,0.64,31,UPI,169.72,Economy
+Emirates,BK100128,Lucknow,4994,5.97,67,Card,965.8,Economy
+Emirates,BK100129,Pune,2887,2.93,69,NetBanking,2352.4,Business
+SpiceJet,BK100130,Jaipur,1672,2.24,72,Card,213.17,Economy
+Emirates,BK100131,Kolkata,3492,3.94,25,UPI,652.83,Economy
+Vistara,BK100132,Lucknow,1056,0.5,50,Card,240.67,Economy
+AirAsia X,BK100133,Jaipur,2319,1.54,22,Card,415.08,Premium Economy
+IndiGo,BK100134,Lucknow,1331,1.64,17,UPI,150.78,Economy
+Lufthansa,BK100135,Hyderabad,5735,6.84,17,Card,1610.68,Premium Economy
+British Airways,BK100136,Jaipur,3382,3.95,27,Card,1585.55,Business
+GoAir,BK100137,Pune,233,0.5,33,Wallet,57.39,Economy
+AirAsia X,BK100138,Lucknow,4333,6.03,59,Wallet,402.54,Economy
+SpiceJet,BK100139,Chennai,1772,2.28,12,Card,1547.99,First
+Lufthansa,BK100140,Pune,2260,2.29,53,Card,484.45,Economy
+Emirates,BK100141,Jaipur,2672,3.67,39,UPI,2295.72,Business
+British Airways,BK100142,Pune,3454,3.39,23,Card,711.02,Economy
+Emirates,BK100143,Lucknow,3015,3.93,37,Card,352.62,Economy
+Air India,BK100144,Mumbai,409,0.5,24,Card,311.02,Business
+Air India,BK100145,Lucknow,100,0.5,44,NetBanking,11.82,Economy
+British Airways,BK100146,Lucknow,4706,5.5,33,UPI,846.94,Economy
+British Airways,BK100147,Hyderabad,4406,5.01,15,Card,709.94,Economy
+SpiceJet,BK100148,Kochi,100,0.5,12,Card,11.37,Economy
+British Airways,BK100149,Chennai,5748,6.9,40,Card,655.84,Economy
+Vistara,BK100150,Ahmedabad,1908,2.02,71,UPI,537.95,Economy
+Emirates,BK100151,Kolkata,3098,3.57,27,Card,2317.95,Business
+AirAsia X,BK100152,New Delhi,5399,6.01,53,Card,692.17,Economy
+Qatar Airways,BK100153,Kochi,3312,4.69,48,NetBanking,353.08,Economy
+British Airways,BK100154,New Delhi,4217,4.9,76,Card,887.18,Economy
+GoAir,BK100155,Hyderabad,398,1.3,59,UPI,130.91,Premium Economy
+Air India,BK100156,Chennai,2228,3.26,42,Card,550.58,Economy
+Vistara,BK100157,Lucknow,722,0.74,48,Card,451.59,Business
+Lufthansa,BK100158,Bengaluru,4151,4.19,70,Card,918.34,Economy
+Qatar Airways,BK100159,Kolkata,3174,4.13,31,NetBanking,451.74,Economy
+AirAsia X,BK100160,Mumbai,6233,7.84,26,Wallet,1089.21,Economy
+Qatar Airways,BK100161,Bengaluru,6263,7.92,2,NetBanking,937.37,Economy
+British Airways,BK100162,Hyderabad,5957,6.45,59,Card,1259.49,Economy
+SpiceJet,BK100163,Kochi,1473,1.94,57,UPI,355.25,Economy
+Air India,BK100164,Mumbai,525,0.5,11,Card,196.62,Premium Economy
+Air India,BK100165,Pune,1396,0.63,42,Card,315.85,Economy
+Lufthansa,BK100166,Jaipur,3991,4.93,35,Wallet,874.28,Economy
+SpiceJet,BK100167,Mumbai,1687,1.46,12,Card,216.72,Economy
+Emirates,BK100168,Ahmedabad,5339,6.59,86,Card,1003.33,Premium Economy
+IndiGo,BK100169,Hyderabad,510,0.79,18,Card,103.44,Economy
+Vistara,BK100170,Goa,1468,1.01,7,Card,326.31,Economy
+Air India,BK100171,Jaipur,1309,1.72,44,Card,185.06,Economy
+GoAir,BK100172,New Delhi,100,0.5,53,UPI,26.79,Premium Economy
+Air India,BK100173,Kolkata,1380,1.36,4,Card,211.58,Economy
+Qatar Airways,BK100174,New Delhi,3481,4.53,48,Wallet,804.54,Economy
+Air India,BK100175,Mumbai,368,0.5,39,NetBanking,156.4,Premium Economy
+Air India,BK100176,New Delhi,394,0.91,11,Card,113.46,Premium Economy
+IndiGo,BK100177,Ahmedabad,818,1.54,16,Card,157.57,Economy
+IndiGo,BK100178,Hyderabad,1188,0.84,42,Card,844.58,Business
+AirAsia X,BK100179,Pune,2361,3.66,24,UPI,465.08,Economy
+Emirates,BK100180,Kochi,4227,4.94,78,Card,690.76,Economy
+GoAir,BK100181,Kolkata,1246,0.85,58,UPI,246.98,Economy
+Air India,BK100182,Ahmedabad,2017,1.98,86,Card,437.27,Economy
+Air India,BK100183,Ahmedabad,253,0.66,21,UPI,46.5,Economy
+Vistara,BK100184,New Delhi,690,0.5,84,Card,550.24,Business
+IndiGo,BK100185,New Delhi,1056,1.05,33,Card,248.14,Economy
+GoAir,BK100186,Mumbai,1588,2.16,27,Wallet,414.34,Economy
+Lufthansa,BK100187,Kochi,3634,3.77,6,NetBanking,649.84,Economy
+AirAsia X,BK100188,Bengaluru,5438,6.17,6,Card,2192.46,Business
+Emirates,BK100189,New Delhi,1675,2.1,50,Wallet,353.76,Economy
+SpiceJet,BK100190,Hyderabad,147,0.5,35,Card,28.27,Economy
+Emirates,BK100191,Goa,4418,4.87,19,Wallet,452.58,Economy
+Qatar Airways,BK100192,Kolkata,2307,1.98,45,NetBanking,438.83,Economy
+Air India,BK100193,Lucknow,195,0.5,21,Card,163.25,First
+AirAsia X,BK100194,New Delhi,3366,3.92,42,Card,2485.67,Business
+Qatar Airways,BK100195,Hyderabad,4925,6.38,28,Card,730.22,Economy
+GoAir,BK100196,Hyderabad,100,0.5,59,UPI,88.91,Business
+SpiceJet,BK100197,Kolkata,1002,2.29,59,UPI,184.01,Economy
+IndiGo,BK100198,Bengaluru,1519,3.13,36,Card,1517.56,Business
+AirAsia X,BK100199,Hyderabad,3766,5.21,27,Card,377.37,Economy
+AirAsia X,BK100200,Goa,3557,4.07,28,NetBanking,599.98,Economy
+Air India,BK100201,Hyderabad,1141,1.12,58,Cash,260.89,Economy
+British Airways,BK100202,Hyderabad,3769,2.92,26,UPI,618.99,Economy
+AirAsia X,BK100203,Hyderabad,5668,6.15,18,Card,1118.14,Economy
+Vistara,BK100204,Pune,233,0.5,9,Card,32.04,Economy
+SpiceJet,BK100205,Pune,869,1.3,35,Card,121.45,Economy
+SpiceJet,BK100206,Bengaluru,1023,1.6,36,Wallet,274.19,Premium Economy
+Vistara,BK100207,New Delhi,672,0.6,60,Card,141.4,Economy
+Lufthansa,BK100208,Hyderabad,554,1.17,19,UPI,123.95,Economy
+Vistara,BK100209,Kochi,803,1.31,29,Card,385.13,Business
+Vistara,BK100210,New Delhi,1440,2.03,58,UPI,273.62,Economy
+SpiceJet,BK100211,Bengaluru,1366,2.19,59,UPI,216.46,Economy
+Emirates,BK100212,Chennai,4425,4.68,30,NetBanking,817.36,Economy
+SpiceJet,BK100213,New Delhi,241,0.5,35,Card,223.38,Business
+British Airways,BK100214,New Delhi,4474,5.09,24,Card,988.94,Economy
+Air India,BK100215,Jaipur,555,0.5,76,Card,60.34,Economy
+Qatar Airways,BK100216,Mumbai,4424,5.58,12,Wallet,1504.47,Premium Economy
+Emirates,BK100217,Lucknow,4145,5.67,77,Wallet,2971.09,Business
+IndiGo,BK100218,Jaipur,314,0.5,50,UPI,78.23,Economy
+Qatar Airways,BK100219,Goa,2929,3.75,39,UPI,970.58,Economy
+Air India,BK100220,Pune,1113,0.81,4,UPI,194.66,Economy
+British Airways,BK100221,Pune,3734,3.46,36,Card,1524.52,Business
+British Airways,BK100222,Mumbai,2991,3.84,31,Wallet,847.95,Economy
+IndiGo,BK100223,Kolkata,346,0.59,15,Card,48.44,Economy
+Emirates,BK100224,Kolkata,3635,4.07,48,Card,3066.61,Business
+Lufthansa,BK100225,Bengaluru,5881,7.08,84,UPI,1044.32,Economy
+Vistara,BK100226,Ahmedabad,584,1.15,41,Card,149.12,Economy
+Emirates,BK100227,Mumbai,3983,5.09,52,Card,553.13,Economy
+Lufthansa,BK100228,Lucknow,4121,4.54,7,NetBanking,580.02,Economy
+British Airways,BK100229,New Delhi,2642,3.6,32,Card,719.3,Economy
+SpiceJet,BK100230,Kolkata,100,0.62,12,UPI,17.46,Economy
+Air India,BK100231,Lucknow,284,0.5,45,Card,71.95,Economy
+IndiGo,BK100232,Hyderabad,1048,1.69,78,Card,284.96,Economy
+Air India,BK100233,Ahmedabad,952,1.52,48,Card,936.15,First
+GoAir,BK100234,Kochi,1321,1.91,8,Card,318.73,Economy
+GoAir,BK100235,New Delhi,958,0.62,28,NetBanking,998.15,First
+Emirates,BK100236,Goa,3868,5.01,41,Card,538.83,Economy
+British Airways,BK100237,Hyderabad,3275,3.95,31,UPI,2526.27,Business
+British Airways,BK100238,Hyderabad,5061,6.73,59,Card,1042.15,Premium Economy
+Vistara,BK100239,Mumbai,348,0.5,58,UPI,52.06,Economy
+Vistara,BK100240,Ahmedabad,233,1.01,45,Wallet,99.67,Premium Economy
+Vistara,BK100241,Bengaluru,1240,1.74,29,NetBanking,920.18,Business
+SpiceJet,BK100242,Goa,100,0.5,21,Card,28.49,Economy
+Qatar Airways,BK100243,Kolkata,6897,9.01,11,Card,941.35,Economy
+AirAsia X,BK100244,Lucknow,4095,4.7,28,Card,529.08,Economy
+Qatar Airways,BK100245,Mumbai,4417,5.57,32,UPI,772.62,Premium Economy
+Air India,BK100246,Kolkata,414,1.19,49,Card,83.02,Premium Economy
+Qatar Airways,BK100247,Mumbai,3621,4.44,48,Card,874.09,Premium Economy
+SpiceJet,BK100248,Mumbai,643,0.5,8,UPI,162.06,Economy
+Air India,BK100249,Mumbai,574,1.1,30,Card,255.77,Premium Economy
+Qatar Airways,BK100250,Ahmedabad,4759,6.33,16,NetBanking,878.79,Economy
+SpiceJet,BK100251,Bengaluru,630,1.71,15,Card,158.67,Economy
+AirAsia X,BK100252,Mumbai,5221,6.03,59,Card,848.55,Economy
+Qatar Airways,BK100253,Chennai,7195,8.56,5,NetBanking,1224.67,Economy
+SpiceJet,BK100254,Kochi,722,0.5,32,Card,133.56,Economy
+Vistara,BK100255,Kolkata,991,0.72,16,UPI,175.25,Economy
+British Airways,BK100256,New Delhi,4455,5.5,66,Card,871.74,Economy
+Vistara,BK100257,Jaipur,1986,2.95,41,Card,528.44,Economy
+British Airways,BK100258,Lucknow,3900,4.13,20,NetBanking,761.96,Economy
+IndiGo,BK100259,Goa,402,0.5,38,NetBanking,110.34,Economy
+IndiGo,BK100260,Pune,140,0.5,53,UPI,25.04,Economy
+IndiGo,BK100261,Bengaluru,865,1.58,81,Card,122.46,Economy
+AirAsia X,BK100262,New Delhi,3461,4.67,19,UPI,627.54,Economy
+Vistara,BK100263,Hyderabad,2106,2.19,67,Card,354.41,Economy
+British Airways,BK100264,Chennai,6123,7.28,77,Card,685.9,Economy
+SpiceJet,BK100265,Pune,279,0.5,73,Wallet,65.42,Economy
+Air India,BK100266,Jaipur,473,0.65,46,Card,119.18,Economy
+SpiceJet,BK100267,New Delhi,944,0.78,46,Cash,143.34,Economy
+Air India,BK100268,Pune,1738,3.02,31,Card,1348.11,Business
+GoAir,BK100269,New Delhi,934,0.5,54,Card,221.06,Economy
+SpiceJet,BK100270,Lucknow,511,0.5,39,UPI,109.7,Economy
+Qatar Airways,BK100271,Chennai,3929,5.05,49,Wallet,867.79,Economy
+Qatar Airways,BK100272,Jaipur,3245,3.18,33,NetBanking,572.84,Economy
+Emirates,BK100273,Hyderabad,4722,5.94,53,NetBanking,1017.83,Economy
+Vistara,BK100274,Mumbai,474,0.67,59,UPI,106.99,Economy
+Air India,BK100275,Kolkata,593,0.5,14,UPI,163.2,Economy
+Air India,BK100276,Hyderabad,1597,2.47,59,NetBanking,207.91,Economy
+Vistara,BK100277,Mumbai,438,1.02,40,Card,105.18,Economy
+AirAsia X,BK100278,Ahmedabad,2264,3.39,60,Card,1040.51,Premium Economy
+Emirates,BK100279,Ahmedabad,4113,4.13,33,Card,1141.75,Premium Economy
+AirAsia X,BK100280,Ahmedabad,3567,4.52,29,Cash,740.23,Premium Economy
+AirAsia X,BK100281,Bengaluru,4613,5.67,73,Wallet,2428.53,Business
+AirAsia X,BK100282,Kochi,4380,6.36,21,Card,549.78,Economy
+Vistara,BK100283,Goa,880,0.94,60,NetBanking,102.4,Economy
+AirAsia X,BK100284,Goa,3926,4.03,36,Wallet,770.3,Economy
+Qatar Airways,BK100285,Ahmedabad,3116,4.06,38,Card,443.89,Economy
+IndiGo,BK100286,Kolkata,950,1.39,25,UPI,758.83,Business
+GoAir,BK100287,Jaipur,1428,1.73,42,Wallet,376.42,Economy
+Air India,BK100288,Chennai,315,0.5,26,Card,233.47,Business
+Air India,BK100289,Jaipur,896,0.94,4,UPI,238.86,Economy
+GoAir,BK100290,Chennai,1523,1.5,22,Card,792.91,Business
+Vistara,BK100291,Jaipur,1203,1.42,1,Wallet,254.03,Economy
+SpiceJet,BK100292,Kochi,1685,2.59,85,Cash,330.41,Economy
+Vistara,BK100293,Bengaluru,559,0.5,83,Wallet,87.4,Economy
+Air India,BK100294,Bengaluru,100,0.5,30,Card,22.03,Economy
+Air India,BK100295,Ahmedabad,1020,0.84,52,Wallet,185.68,Economy
+GoAir,BK100296,Mumbai,1117,1.13,27,NetBanking,270.51,Economy
+AirAsia X,BK100297,Pune,5642,7.0,49,Card,1170.77,Premium Economy
+Vistara,BK100298,Bengaluru,1612,2.16,58,NetBanking,450.25,Economy
+British Airways,BK100299,Bengaluru,4644,6.07,79,Card,983.9,Economy
+GoAir,BK100300,Hyderabad,1359,1.92,31,UPI,156.91,Economy
+Qatar Airways,BK100301,Hyderabad,3769,5.43,56,Card,881.16,Premium Economy
+Air India,BK100302,Mumbai,168,0.5,22,Card,20.68,Economy
+GoAir,BK100303,Lucknow,970,1.56,88,Card,261.7,Economy
+Vistara,BK100304,Pune,1489,2.08,3,UPI,195.27,Economy
+Air India,BK100305,Kolkata,1293,1.4,44,Card,168.98,Economy
+SpiceJet,BK100306,Hyderabad,1400,1.96,48,NetBanking,374.93,Economy
+GoAir,BK100307,Kolkata,643,0.5,50,Card,86.24,Economy
+Emirates,BK100308,New Delhi,3681,3.85,13,Card,523.94,Economy
+Air India,BK100309,Hyderabad,1190,0.52,78,UPI,436.02,Premium Economy
+Vistara,BK100310,Kochi,572,0.78,16,NetBanking,68.57,Economy
+IndiGo,BK100311,Lucknow,590,0.5,45,Card,157.81,Economy
+British Airways,BK100312,Pune,4357,5.45,19,UPI,443.18,Economy
+Lufthansa,BK100313,Mumbai,4913,5.81,25,Wallet,2049.9,Business
+AirAsia X,BK100314,New Delhi,3760,4.36,40,UPI,661.84,Economy
+Lufthansa,BK100315,Pune,2604,2.48,32,Card,913.92,Premium Economy
+Vistara,BK100316,Ahmedabad,458,0.5,15,Card,98.38,Economy
+Qatar Airways,BK100317,Kochi,4244,4.56,16,Wallet,809.56,Economy
+Qatar Airways,BK100318,Pune,4229,5.21,32,Card,841.59,Economy
+IndiGo,BK100319,Kochi,1044,1.47,54,Wallet,1173.01,Business
+AirAsia X,BK100320,Kochi,4625,5.3,70,UPI,986.4,Economy
+Emirates,BK100321,Kolkata,4006,4.04,9,Wallet,861.04,Premium Economy
+IndiGo,BK100322,Jaipur,1059,1.67,30,NetBanking,1282.97,Business
+Lufthansa,BK100323,Ahmedabad,3945,4.4,11,Cash,468.84,Economy
+IndiGo,BK100324,New Delhi,1589,2.49,2,Card,246.48,Economy
+Lufthansa,BK100325,Pune,5718,6.6,48,NetBanking,827.76,Economy
+Air India,BK100326,Chennai,186,0.5,44,Card,45.49,Economy
+Qatar Airways,BK100327,New Delhi,3693,3.26,15,Card,1098.76,Premium Economy
+Air India,BK100328,Jaipur,919,1.19,20,UPI,577.88,Business
+British Airways,BK100329,New Delhi,3679,4.84,3,Wallet,441.08,Economy
+AirAsia X,BK100330,Bengaluru,6151,7.54,60,Cash,696.91,Economy
+Emirates,BK100331,Chennai,4268,6.08,85,NetBanking,931.53,Premium Economy
+Lufthansa,BK100332,Jaipur,3033,4.03,13,Card,488.31,Economy
+Emirates,BK100333,Kolkata,4715,6.23,20,Card,1633.04,Premium Economy
+Lufthansa,BK100334,Pune,4325,5.85,64,NetBanking,571.84,Economy
+Vistara,BK100335,Lucknow,1082,2.19,75,Card,271.84,Economy
+IndiGo,BK100336,Goa,1984,2.66,32,Card,312.39,Economy
+British Airways,BK100337,Jaipur,4420,5.4,6,Card,586.69,Economy
+Qatar Airways,BK100338,Mumbai,3635,3.65,4,Card,675.59,Economy
+Lufthansa,BK100339,Pune,1653,2.43,42,Card,378.98,Economy
+Emirates,BK100340,Ahmedabad,3801,4.36,30,Card,455.53,Economy
+British Airways,BK100341,Jaipur,5567,6.63,3,Card,1194.09,Premium Economy
+SpiceJet,BK100342,Bengaluru,845,1.25,43,Card,637.41,Business
+SpiceJet,BK100343,Goa,100,0.84,2,Cash,26.2,Economy
+Air India,BK100344,Bengaluru,600,0.5,56,Card,145.45,Economy
+Qatar Airways,BK100345,Goa,5191,6.62,25,Card,983.75,Economy
+Vistara,BK100346,Ahmedabad,1227,0.85,5,UPI,259.62,Economy
+Emirates,BK100347,Lucknow,2992,3.4,43,Card,989.42,Economy
+IndiGo,BK100348,Mumbai,560,1.78,31,Wallet,152.85,Economy
+IndiGo,BK100349,Pune,653,0.5,84,NetBanking,92.05,Economy
+Emirates,BK100350,Kolkata,3204,3.56,40,Card,432.48,Economy
+AirAsia X,BK100351,Bengaluru,1564,1.47,22,Card,284.79,Economy
+Vistara,BK100352,Bengaluru,1358,1.04,51,Wallet,198.5,Economy
+British Airways,BK100353,Kochi,5508,6.84,22,Wallet,4559.98,First
+Lufthansa,BK100354,Goa,2177,3.07,71,Card,514.86,Economy
+AirAsia X,BK100355,Hyderabad,5492,6.33,29,UPI,987.92,Economy
+Lufthansa,BK100356,Lucknow,3876,4.88,41,Card,475.42,Economy
+Lufthansa,BK100357,Pune,5470,7.37,6,Cash,601.75,Economy
+AirAsia X,BK100358,Goa,4045,4.78,32,Card,808.29,Premium Economy
+Air India,BK100359,Kochi,981,1.35,59,Wallet,171.61,Economy
+SpiceJet,BK100360,New Delhi,1123,1.39,58,UPI,2103.61,First
+Lufthansa,BK100361,Goa,3051,4.47,19,UPI,305.73,Economy
+AirAsia X,BK100362,Kolkata,5433,6.4,19,UPI,801.89,Economy
+AirAsia X,BK100363,Pune,2654,3.76,58,Card,615.23,Premium Economy
+GoAir,BK100364,Lucknow,658,0.5,76,Card,95.33,Economy
+Air India,BK100365,Kochi,1214,1.97,10,Card,228.75,Economy
+Qatar Airways,BK100366,New Delhi,3388,4.08,34,Card,504.83,Economy
+GoAir,BK100367,Chennai,1366,1.37,27,NetBanking,185.37,Economy
+GoAir,BK100368,Kochi,1725,1.79,64,Card,2044.66,Business
+Emirates,BK100369,Chennai,5215,7.1,9,Card,1147.11,Economy
+SpiceJet,BK100370,Pune,100,0.5,18,Cash,22.92,Economy
+AirAsia X,BK100371,Bengaluru,4151,4.57,54,Wallet,514.46,Economy
+SpiceJet,BK100372,Kochi,1517,1.55,6,Wallet,326.53,Economy
+Vistara,BK100373,Mumbai,109,0.5,37,Cash,15.42,Economy
+Emirates,BK100374,Chennai,4868,6.15,34,Card,975.15,Economy
+Qatar Airways,BK100375,Kolkata,4800,6.95,26,Card,533.88,Economy
+SpiceJet,BK100376,Mumbai,172,0.96,30,NetBanking,40.64,Premium Economy
+IndiGo,BK100377,Jaipur,1400,1.83,39,UPI,318.49,Economy
+Lufthansa,BK100378,Jaipur,4327,5.45,15,Card,799.99,Economy
+Vistara,BK100379,New Delhi,1290,1.67,42,NetBanking,1231.01,Business
+Air India,BK100380,Lucknow,320,1.14,58,Card,65.65,Economy
+Qatar Airways,BK100381,Bengaluru,4180,5.5,55,Card,479.64,Economy
+Vistara,BK100382,Pune,100,0.5,15,UPI,25.55,Economy
+Lufthansa,BK100383,Kochi,1267,1.63,14,UPI,294.9,Economy
+Emirates,BK100384,Hyderabad,4168,5.71,22,UPI,760.06,Economy
+Lufthansa,BK100385,Kolkata,5320,6.46,28,Card,4141.18,First
+GoAir,BK100386,Chennai,1051,1.75,31,Wallet,158.65,Economy
+Lufthansa,BK100387,Pune,3923,4.19,49,Card,407.74,Economy
+GoAir,BK100388,Mumbai,787,1.46,6,Card,189.61,Premium Economy
+Emirates,BK100389,Ahmedabad,2868,3.08,4,Wallet,776.33,Economy
+British Airways,BK100390,Jaipur,3733,4.34,30,Cash,562.73,Economy
+GoAir,BK100391,Ahmedabad,1153,1.29,50,Wallet,207.78,Economy
+Air India,BK100392,Kolkata,638,0.83,17,NetBanking,393.88,Business
+Lufthansa,BK100393,Hyderabad,4900,5.69,47,UPI,657.17,Economy
+Lufthansa,BK100394,Kochi,4235,4.74,21,UPI,781.47,Economy
+Air India,BK100395,New Delhi,1090,1.58,67,Card,228.11,Economy
+IndiGo,BK100396,Hyderabad,1433,1.14,69,Card,196.11,Economy
+AirAsia X,BK100397,Kolkata,3367,4.06,24,Card,633.08,Economy
+British Airways,BK100398,Hyderabad,4791,6.72,19,Card,751.42,Economy
+Qatar Airways,BK100399,Kolkata,3536,4.14,31,NetBanking,894.06,Premium Economy
+GoAir,BK100400,Kolkata,1103,1.75,20,Card,268.97,Economy
+Air India,BK100401,Goa,512,0.97,49,Card,122.59,Economy
+Emirates,BK100402,Chennai,2907,3.68,59,Card,813.44,Premium Economy
+GoAir,BK100403,Ahmedabad,955,1.51,49,UPI,609.91,Business
+AirAsia X,BK100404,Jaipur,1737,2.91,59,Card,461.74,Economy
+Emirates,BK100405,Goa,3644,4.49,31,Wallet,578.55,Economy
+Vistara,BK100406,Kochi,100,0.5,15,Card,18.88,Economy
+Lufthansa,BK100407,Goa,4935,6.17,53,Card,5477.03,First
+Vistara,BK100408,Bengaluru,1530,2.54,28,UPI,1355.83,Business
+GoAir,BK100409,Bengaluru,381,0.5,49,NetBanking,92.83,Economy
+AirAsia X,BK100410,Jaipur,4513,5.92,22,Card,1082.49,Premium Economy
+British Airways,BK100411,Hyderabad,5078,6.42,9,UPI,795.63,Economy
+GoAir,BK100412,Chennai,1441,1.28,88,UPI,404.25,Economy
+Air India,BK100413,Jaipur,1028,1.39,15,Card,261.71,Economy
+SpiceJet,BK100414,Kolkata,1340,1.39,87,Wallet,540.06,Premium Economy
+GoAir,BK100415,Mumbai,510,0.5,85,NetBanking,61.1,Economy
+Lufthansa,BK100416,Chennai,4099,5.67,57,UPI,1216.31,Premium Economy
+Lufthansa,BK100417,Lucknow,3439,4.73,48,Wallet,1052.05,Premium Economy
+GoAir,BK100418,Ahmedabad,459,0.85,42,Wallet,152.38,Premium Economy
+Emirates,BK100419,Chennai,4043,5.75,64,NetBanking,803.67,Economy
+SpiceJet,BK100420,Kolkata,1108,1.47,23,NetBanking,157.33,Economy
+Air India,BK100421,Kolkata,1598,2.72,35,UPI,383.68,Economy
+GoAir,BK100422,New Delhi,1059,0.97,45,UPI,174.22,Economy
+Emirates,BK100423,Jaipur,4770,5.84,31,UPI,1003.82,Economy
+Lufthansa,BK100424,Kolkata,4783,5.77,33,NetBanking,2969.33,Business
+Lufthansa,BK100425,Bengaluru,7225,9.16,26,Card,1567.39,Economy
+AirAsia X,BK100426,Kochi,1827,2.43,42,Wallet,405.9,Economy
+GoAir,BK100427,Mumbai,487,0.85,61,Wallet,85.27,Economy
+SpiceJet,BK100428,Ahmedabad,1784,2.92,18,Card,238.24,Economy
+IndiGo,BK100429,Jaipur,688,0.51,77,NetBanking,90.68,Economy
+SpiceJet,BK100430,Pune,1431,2.26,50,Card,228.79,Economy
+Lufthansa,BK100431,Bengaluru,4276,5.03,59,Card,3600.42,Business
+Lufthansa,BK100432,Lucknow,6526,7.32,41,NetBanking,827.27,Economy
+Vistara,BK100433,Hyderabad,232,0.81,56,Card,366.7,First
+Lufthansa,BK100434,Kolkata,5466,7.44,2,NetBanking,4783.19,Business
+Air India,BK100435,Pune,1949,1.83,58,NetBanking,398.32,Economy
+Qatar Airways,BK100436,Kolkata,2782,3.74,5,UPI,2546.52,Business
+GoAir,BK100437,Chennai,1369,2.6,68,Card,336.42,Economy
+SpiceJet,BK100438,Bengaluru,320,0.61,88,Card,92.24,Premium Economy
+Qatar Airways,BK100439,Chennai,4036,5.49,24,UPI,701.45,Economy
+Emirates,BK100440,New Delhi,3692,4.62,18,Cash,2562.39,Business
+IndiGo,BK100441,Chennai,100,1.66,55,UPI,73.69,Business
+Air India,BK100442,New Delhi,1154,1.31,21,Card,250.58,Premium Economy
+SpiceJet,BK100443,Lucknow,986,1.55,64,UPI,380.47,Premium Economy
+Qatar Airways,BK100444,New Delhi,5774,7.39,11,UPI,841.85,Economy
+IndiGo,BK100445,Pune,1266,2.21,13,NetBanking,298.11,Economy
+Vistara,BK100446,Kolkata,2274,2.78,85,Card,473.06,Economy
+Air India,BK100447,Hyderabad,964,1.27,49,NetBanking,130.77,Economy
+Air India,BK100448,Ahmedabad,836,1.41,60,UPI,142.43,Economy
+Vistara,BK100449,Chennai,789,0.78,26,Cash,211.72,Economy
+GoAir,BK100450,Ahmedabad,636,0.89,49,Card,912.01,First
+Vistara,BK100451,Bengaluru,100,0.62,44,UPI,25.65,Economy
+Air India,BK100452,New Delhi,767,0.96,44,Wallet,237.33,Premium Economy
+Air India,BK100453,Kolkata,100,0.5,49,Card,12.81,Economy
+Qatar Airways,BK100454,Mumbai,4542,5.33,42,Wallet,2042.73,Business
+Lufthansa,BK100455,Jaipur,2511,3.18,33,UPI,2326.55,Business
+IndiGo,BK100456,Pune,363,0.5,23,Card,73.02,Economy
+Vistara,BK100457,Hyderabad,498,0.5,55,Card,90.83,Economy
+IndiGo,BK100458,Goa,777,0.9,19,NetBanking,362.35,Premium Economy
+Vistara,BK100459,Pune,904,0.94,50,Card,257.6,Economy
+Emirates,BK100460,Lucknow,5301,7.14,20,UPI,879.3,Economy
+Air India,BK100461,Mumbai,553,0.5,46,Card,128.67,Economy
+Lufthansa,BK100462,Jaipur,4576,5.37,54,UPI,814.13,Economy
+Qatar Airways,BK100463,Mumbai,7277,7.88,19,Card,1187.84,Economy
+Lufthansa,BK100464,Chennai,4452,5.67,6,Wallet,700.89,Economy
+Lufthansa,BK100465,New Delhi,3783,4.28,13,Cash,722.77,Economy
+Lufthansa,BK100466,Hyderabad,3065,3.94,44,Cash,340.35,Economy
+IndiGo,BK100467,Kochi,783,1.05,60,NetBanking,697.59,Business
+Vistara,BK100468,New Delhi,368,0.5,5,Card,59.8,Economy
+British Airways,BK100469,Kochi,4322,5.51,53,NetBanking,2741.82,Business
+Emirates,BK100470,Ahmedabad,4124,5.7,27,Card,903.52,Economy
+SpiceJet,BK100471,Jaipur,100,0.5,36,Card,17.75,Economy
+Lufthansa,BK100472,Kolkata,3977,5.01,76,Card,420.84,Economy
+GoAir,BK100473,Goa,1545,0.81,26,Card,286.31,Economy
+IndiGo,BK100474,Bengaluru,660,1.61,35,NetBanking,77.07,Economy
+Qatar Airways,BK100475,New Delhi,3216,4.11,2,UPI,627.94,Economy
+SpiceJet,BK100476,Hyderabad,100,0.53,9,Card,14.03,Economy
+British Airways,BK100477,Lucknow,1770,2.13,21,Card,409.08,Economy
+GoAir,BK100478,Lucknow,1398,1.53,3,Cash,214.27,Economy
+British Airways,BK100479,Mumbai,3782,4.3,46,Card,540.03,Economy
+SpiceJet,BK100480,Hyderabad,1363,1.16,32,Card,191.6,Economy
+Lufthansa,BK100481,Jaipur,5837,7.75,41,Card,1158.16,Premium Economy
+GoAir,BK100482,Ahmedabad,1452,2.32,16,NetBanking,305.39,Economy
+British Airways,BK100483,Kochi,3349,3.18,24,UPI,372.66,Economy
+Qatar Airways,BK100484,Mumbai,4173,5.35,48,Card,3092.68,First
+Vistara,BK100485,Lucknow,531,0.5,83,Card,69.44,Economy
+Air India,BK100486,Bengaluru,475,1.93,6,UPI,57.6,Economy
+Vistara,BK100487,Bengaluru,1105,1.74,68,UPI,1555.98,First
+SpiceJet,BK100488,New Delhi,400,0.96,42,Card,62.27,Economy
+IndiGo,BK100489,Jaipur,100,0.5,42,Cash,11.91,Economy
+Air India,BK100490,Kolkata,367,0.62,37,Card,78.86,Economy
+Emirates,BK100491,Lucknow,3631,4.22,7,Card,503.16,Economy
+Qatar Airways,BK100492,Jaipur,5825,6.78,9,Wallet,653.21,Economy
+Emirates,BK100493,Ahmedabad,3410,4.01,44,Card,410.98,Economy
+GoAir,BK100494,Kochi,1207,1.69,27,UPI,367.52,Economy
+Air India,BK100495,Hyderabad,799,0.5,74,Card,212.62,Economy
+Emirates,BK100496,Lucknow,5471,7.4,31,Card,6988.65,First
+Emirates,BK100497,Bengaluru,5388,6.12,14,Cash,1553.86,Premium Economy
+British Airways,BK100498,Hyderabad,5411,6.74,52,Card,927.89,Economy
+Vistara,BK100499,Hyderabad,100,0.5,24,Wallet,15.55,Economy
