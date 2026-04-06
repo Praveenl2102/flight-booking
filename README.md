@@ -43,3 +43,7 @@ Total Revenue
 Average Ticket Price
 Cancellation Rate
 Load Factor (Seat Utilization)
+
+📧 Email: madinenipraveen828@gmail.com
+🔗 LinkedIn: linkedin.com/in/madineni-praveen-kumar-350047286
+💻 GitHub: github.com/Praveenl2102
